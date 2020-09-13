@@ -1,9 +1,9 @@
-# **Kamlesh Sahoo (12821721)**
+# **Assignment Submitted by - Kamlesh Sahoo (12821721)**
 
 # *Title of Papers Pivotal to our knowledge:*
-- MCC Van Dyke et al., 2019
-- JT Harvey, Applied Ergonomics, 2002
-- DW Ziegler et al., 2005
+- MCC Van Dyke et al., 2019: **Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens**
+- JT Harvey, Applied Ergonomics, 2002: **An analysis of the forces required to drag sheep over various surfaces**
+- DW Ziegler et al., 2005: **Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients**
 
 
 ![datavisualise](https://github.com/gzavo/CS_Assignment/raw/edf3537a68d06c0e567ddcee675822b874627573/datavisualize.png)
